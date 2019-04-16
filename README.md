@@ -1,6 +1,6 @@
 java算法学习
 ==========
-1.贪心算法-装箱问题,哈夫曼编码<br>
+1.贪心算法<br>
 ----------
 [装箱](https://github.com/just-like-before/algorithm-java/tree/master/encasement)<br>
 [哈夫曼编码](https://github.com/just-like-before/algorithm-java/tree/master/huffman)<br>
