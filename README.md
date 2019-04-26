@@ -4,6 +4,6 @@
 - LeetCode
 - 数据结构与算法经典问题解析
 
-对这两部分中的算法习题进行实现
-| [贪心算法](https://github.com/just-like-before/algorithm-java/tree/master/encasement) |
+对这两部分中的算法习题进行实现.
+| [贪心算法](https://github.com/just-like-before/algorithm-java/tree/master/encasement)
 |:-:|
