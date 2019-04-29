@@ -7,4 +7,4 @@
 对这两部分中的算法习题进行实现.
 
 | [贪心算法](https://github.com/just-like-before/algorithm-java/tree/master/encasement) | [回溯](https://github.com/just-like-before/algorithm-java/tree/master/recall) 
-|:-:|
+|:-:|:-:|
